@@ -1,1 +1,3 @@
-# Blue-3DS-Keyboard
+# Blue 3DS Keyboard
+
+Just a little something from me.
