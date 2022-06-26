@@ -16,7 +16,7 @@ Go toward the [the releases page](https://github.com/Zukkiyunda/Custom-3DS-Keybo
 * You have now deleted the keyboard, although if you were to go to somewhere that opens the keyboard, it will crash. The next steps are how to restore the original back.
 * Power off your 3DS, hold L+R+A+UP ("UP" refers to the D-Pad), and press and release the power button while still holding the 4 buttons until a screen shows up.
 * Press next to proceed and accept Nintendo's Terms of Service. Next, wait til the restoration is complete
-*Turn on your 3DS and the original keyboard should now pop up when go to anywhere you need it.
+* Turn on your 3DS and the original keyboard should now pop up when go to anywhere you need it.
 * If you get a error, please try again with a mobile wifi hotspot.
 
 ## Screenshot(s)
