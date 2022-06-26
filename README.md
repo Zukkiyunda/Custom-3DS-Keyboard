@@ -2,7 +2,7 @@
 
 ## Installation
 
-At this moment of time, It is NA only. This means that you most likely can't install this mod if you brought your 3DS outside North America if brought from a large retail store. If you are unsure which region it is if for example it is a second hand 3DS. Open the System Settings app and look at the right-bottom corner of the top screen. If the firmware ends with a "U" at the end. This is a NA 3DS, if not, you won't be install this without crashing the keyboard entirely.
+At this moment of time, It is NA only. This means that you most likely can't install this mod if you brought your 3DS outside North America from a large retail store. If you are unsure which region it is if for example it is a second hand 3DS. Open the System Settings app and look at the right-bottom corner of the top screen. If the firmware ends with a "U" at the end. This is a NA 3DS, if not, you won't be install this without crashing the keyboard entirely.
 
 
 Go toward the [the releases page](https://github.com/Zukkiyunda/Custom-3DS-Keyboard/releases). Download your CIA. Insert it somewhere in your 3DS SD card. Open FBI, go toward the directory you have put it, and Press either option one or two.
